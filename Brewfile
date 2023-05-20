@@ -15,3 +15,7 @@ brew install --cask "google-chrome"
 brew install --cask "spotify"
 brew install --cask iterm2
 brew install --cask fork
+cask "obsidian"
+cask "rectangle"
+brew "zsh-completions"
+brew "lazygit"
